@@ -1,0 +1,24 @@
+#maindiv{
+    margin: 10px auto;
+    width: 30%;
+    text-align: center;
+    background-color: black;
+    border-radius: 35px;
+}
+#abc{
+    width: 70%;
+    cursor: pointer;
+}
+button{
+    border-radius: 140px;
+    border: 2px gray;
+margin: 2px;
+cursor: pointer;
+}
+.operations {
+background-color:peru;
+color: white;
+}
+#btmline {
+width: 30px;
+}
